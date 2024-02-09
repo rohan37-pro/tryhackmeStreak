@@ -7,6 +7,7 @@ import pyperclip
 import platform
 from datetime import datetime
 import subprocess
+import json
 
 
 def get_driver(profile):
@@ -14,6 +15,8 @@ def get_driver(profile):
         option = webdriver.ChromeOptions()
         option.add_argument(f"--user-data-dir=./user-data-dir/{profile}")
         driver = webdriver.Chrome(options=option)
+        
+    return driver
 
 
 def wait(t):
@@ -23,6 +26,81 @@ def wait(t):
 def login(driver) :
     driver.get("https://tryhackme.com/login")
     wait(60)
+
+
+def submit_flag(driver, users, usr):
+    ## constants ##
+    input = "//input[@class='form-control room-answer-field']"
+    submit = "//div[@class='room-task-input-answer']//button"
+    t = datetime.timetuple(datetime.today())
+    timef = str(t.tm_mday) + "/" + str(t.tm_mon) + "/" + str(t.tm_year)
+    pointer = str(int(users[usr]['pointer']) +1 )
+
+    correct_answer  = True
+    while correct_answer:
+        with open("./configs/THM_flags.json", 'r') as file:
+            flag = json.load(file)
+            flag = flag[pointer]
+        task_input = flag['task_input']
+        print(f"pointer {pointer}, task_input->{task_input}")
+        if driver.current_url != flag['link']:
+            driver.get(flag['link'])
+            time.sleep(3)
+        while True:
+            try:
+                s = f"({submit})[{task_input}]"
+                print(f"submit xpath={s}")
+                button_e = driver.find_element('xpath', s)
+                print(f"button text->{button_e.text.strip()}")
+                if button_e.text.strip() in ["Submit", "Completed"]:
+                    correct_answer=False
+                else:
+                    print(f"Flag {pointer} is already submitted")
+                    pointer = str(int(pointer)+1)
+                print("break", button_e.text)
+                break
+            except:
+                print("exception occure.")
+                time.sleep(1)
+    print(f"correct answer {correct_answer}")
+    print("trying to join room..")
+    try:
+        driver.find_element('xpath', "//button[@class='btn btn-success btn-sm float-right join-btn']").click()
+    except:
+        print("already joined..")
+    
+    print("searching for the card to expand")
+    num_cards = len(driver.find_elements('xpath', "//div[@class='card']"))
+    tasks = 0
+    for i in range(num_cards):
+        tasks += len(driver.find_elements('xpath', f"(//div[@id='task-{i}'])//div[@class='room-task-input']"))
+        print(f"{i}total tasks --> {tasks}")
+        if tasks >= task_input:
+            print(f"found at task-card number {i}")
+
+            elem = driver.find_element('xpath', f"//div[@href='#collapse{i}']")
+            if elem.get_attribute("aria-expanded") == "false":
+                chain = ActionChains(driver)
+                chain.move_to_element(elem).pause(1).click().perform()
+            break
+
+    time.sleep(2)
+    
+    if flag["input"] :
+        input = f"({input})[{task_input}]"
+        element = driver.find_element("xpath", input)
+        element.send_keys(flag["answer"])
+        time.sleep(2)
+    submit = f"({submit})[{task_input}]"
+    driver.find_element("xpath", submit).click()
+    users[usr]["pointer"] = pointer
+    users[usr]["streak_count"] += 1
+    users[usr]["date"] = timef
+    
+    with open("./configs/userConfig.json", 'w') as file:
+        json.dump(users, file, indent=4)
+
+    wait(20)
 
 
 

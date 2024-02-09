@@ -1,7 +1,19 @@
 {
     "1" : {
-        "link" : "",
-        "steps" : [["click", ""],
-        ["input", ""]]
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "task_input" : 1,
+        "input" : true,
+        "answer" : "Offensive Security"
+    },
+    "2" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "BANK-HACKED"
+    },
+    "3" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "input" : false,
+        "task_input" : 3
     }
 }

@@ -15,16 +15,13 @@ if platform.system() == "Windows":
 
 for usr in users:
     if utils.check_today(users[usr]["date"]):
-        quit()
+        continue
     driver = utils.get_driver(usr)
 
     if users[usr]["login"] == False:
         utils.login(driver)
-        users[usr]["login"] == True
+        users[usr]["login"] = True
         with open("./configs/userConfig.json", 'w') as file:
-            json.dump(users, file)
-    
-
-        
-    
-
+            json.dump(users, file, indent=4)
+    pointer = users[usr]["pointer"]
+    utils.submit_flag(driver, users, usr)

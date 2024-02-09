@@ -1,8 +1,8 @@
 {
-    "username" : {
-        "pointer" : 0,
-        "login" : false,
-        "steak_count" : 0,
-        "date" : null
+    "rohan37pro": {
+        "pointer": "2",
+        "login": true,
+        "streak_count": 1,
+        "date": "9/2/2024"
     }
 }
