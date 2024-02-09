@@ -1,0 +1,8 @@
+{
+    "username" : {
+        "pointer" : 0,
+        "login" : false,
+        "steak_count" : 0,
+        "date" : null
+    }
+}
