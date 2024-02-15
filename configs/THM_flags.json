@@ -15,5 +15,15 @@
         "link" : "https://tryhackme.com/room/introtooffensivesecurity",
         "input" : false,
         "task_input" : 3
+    },
+    "4" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "input" : false,
+        "task_input" : 4
+    },
+    "5" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "input" : false,
+        "task_input" : 5
     }
 }
