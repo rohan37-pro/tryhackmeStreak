@@ -15,5 +15,37 @@
         "link" : "https://tryhackme.com/room/introtooffensivesecurity",
         "input" : false,
         "task_input" : 3
+    },
+    "4" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "input" : false,
+        "task_input" : 4
+    },
+    "5" : {
+        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
+        "input" : false,
+        "task_input" : 5
+    },
+    "6" : {
+        "link" : "https://tryhackme.com/room/furthernmap",
+        "input" : false,
+        "task_input" : 1
+    },
+    "7" : {
+        "link" : "https://tryhackme.com/room/furthernmap",
+        "input" : false,
+        "task_input" : 2,
+        "answer" :  "Ports"
+    },
+    "8" : {
+        "link" : "https://tryhackme.com/room/furthernmap",
+        "input" : false,
+        "task_input" : 3,
+        "answer" : "65535"
+    },
+    "9" : {
+        "link" : "https://tryhackme.com/room/furthernmap",
+        "input" : false,
+        "task_input" : 1
     }
 }
