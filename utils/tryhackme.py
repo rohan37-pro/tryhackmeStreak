@@ -56,11 +56,11 @@ def login(driver) :
 
 
 
+
 def submit_flag(driver, users, usr):
     ## constants ##
     input = "//input[@class='form-control room-answer-field']"
     submit = "//div[@class='room-task-input-answer']//button"
-
     timef = clock.get_date()
     pointer = str(int(users[usr]['pointer']) +1 )
 
@@ -105,7 +105,6 @@ def submit_flag(driver, users, usr):
                 close_pop_up(driver)
                 print(f"exception occure.\n{e}")
                 time.sleep(1)
-
     
     print("searching for the card to expand")
     num_cards = len(driver.find_elements('xpath', "//div[@class='card']"))
@@ -115,6 +114,7 @@ def submit_flag(driver, users, usr):
         if tasks >= task_input:
             print(f"found at task-card number {i}")
             card = i
+
             elem = driver.find_element('xpath', f"//div[@href='#collapse{i}']")
             if elem.get_attribute("aria-expanded") == "false":
                 chain = ActionChains(driver)
@@ -148,8 +148,6 @@ def submit_flag(driver, users, usr):
     
     with open("./configs/userConfig.json", 'w') as file:
         json.dump(users, file, indent=4)
-
+        
     clock.wait(30)
-
-
 
