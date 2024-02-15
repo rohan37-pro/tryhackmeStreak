@@ -482,25 +482,25 @@
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 6,
         "input" : true,
-        "answer" : ""
+        "answer" : "’m the creeper, catch me if you can!"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 7,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Advanced Research Projects Agency Network"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 8,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Network Working Group"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 9,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Creeper"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -511,32 +511,32 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 11,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Ray Tomlinson"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 12,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Nematode"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 13,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Reaper"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 14,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "A resource-sharing capability"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 15,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Application Programming Interface"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -547,20 +547,20 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 17,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Denial of service attack"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 18,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Y"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 19,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "looney tunes cartoons"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -571,32 +571,32 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 21,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "1975"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 22,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Y"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 23,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "UNIVACs"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 24,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "a Trojan"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 25,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "the Greeks"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -607,38 +607,38 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 27,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "US navy"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 28,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "7"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 29,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "1982"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 30,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "less"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 31,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "2 weeks"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 32,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Apple ii"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -649,44 +649,44 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 34,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Berkeley r-commands"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 35,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Robert Tappan Morris"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 36,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "denial of service"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 37,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "1988"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 38,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "2000"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 39,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "remote shell"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 40,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "1986 Computer Fraud and Abuse act"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -697,38 +697,38 @@
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 42,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "Cascade"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 43,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : ".com"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 44,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "40"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 45,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "DOS"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 46,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "IBM"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
         "task_input" : 47,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "1704"
 }@#$
 {
         "link" : "https://tryhackme.com/room/historyofmalware",
@@ -736,6 +736,110 @@
         "input" : false,
         "answer" : ""
 }@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 2,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "The Iran Nuclear Programme"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 4,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "THM{I_CAUGHT_ALL_THE_PHISH}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "Bitcoin"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 7,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 8,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "TryHackMe123!"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 10,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 11,
+        "input" : true,
+        "answer" : "App"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 12,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 13,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 14,
+        "input" : true,
+        "answer" : "3"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 15,
+        "input" : true,
+        "answer" : "1"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 16,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/commonattacks",
+        "task_input" : 17,
+        "input" : false,
+        "answer" : ""
+}@#$
+
+
 
 
 
