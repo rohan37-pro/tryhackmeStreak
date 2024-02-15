@@ -838,6 +838,128 @@
         "input" : false,
         "answer" : ""
 }@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "Burp Suite Enterprise"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "Mobile"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "Proxy"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "Intruder"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 6,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "Event log"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Proxy tab"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "Sessions"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "Suite"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 11,
+        "input" : true,
+        "answer" : "Hotkeys"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 12,
+        "input" : true,
+        "answer" : "yea"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 13,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 14,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 15,
+        "input" : true,
+        "answer" : "THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 16,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 17,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 18,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 19,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/burpsuitebasics",
+        "task_input" : 20,
+        "input" : false,
+        "answer" : ""
+}@#$
+
+
 
 
 
