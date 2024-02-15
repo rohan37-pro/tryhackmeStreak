@@ -66,6 +66,7 @@ def submit_flag(driver, users, usr):
     print("trying to join room..")
     try:
         driver.find_element('xpath', "//button[@class='btn btn-success btn-sm float-right join-btn']").click()
+        wait(10)
     except:
         print("already joined..")
     

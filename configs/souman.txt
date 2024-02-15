@@ -1,0 +1,246 @@
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "1991"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 3,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "echo TryHackMe"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "TryHackMe"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "4"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "folder4"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Hello World"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "/home/tryhackme/folder4"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "THM{ACCESS}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 11,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 12,
+        "input" : true,
+        "answer" : "&"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 13,
+        "input" : true,
+        "answer" : "echo password123 > passwords"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 14,
+        "input" : true,
+        "answer" : "echo tryhackme >> passwords"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 15,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 16,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 17,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input" : 18,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "White Hat"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "Black Hat"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "Rules of Engagement"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "Information Gathering"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "OSSTMM"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "OWASP"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Black Box"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "White Box"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "THM{PENTEST_COMPLETE}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 1,
+        "input" : true,
+        "answer" : " Network"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "Tim Berners-Lee"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "internet protocol"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "octet"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "4"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "media access control"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "THM{YOU_GOT_ON_TRYHACKME}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "icmp"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "Ping 10.10.10.10"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "THM{_PINGED_THE_SERVER}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/whatisnetworking",
+        "task_input" : 11,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "",
+        "task_input" : ,
+        "input" : ,
+        "answer" : ""
+}@#$
+
+
+
+
+
+
