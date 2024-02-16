@@ -123,13 +123,6 @@ def submit_flag(driver, users, usr):
             break
 
     time.sleep(2)
-    ### trying to start machine
-    machine = f"//div[@id='task-{card}']//button[@class='btn btn-success']"
-    try:
-        driver.find_element('xpath', machine).click()
-        time.sleep(1)
-    except:
-        pass
     
     if flag["input"] :
         input = f"({input})[{task_input}]"
@@ -141,13 +134,25 @@ def submit_flag(driver, users, usr):
     but = driver.find_element("xpath", submit)
     chain = ActionChains(driver)
     chain.move_to_element(but).click().perform()
+    try:
+        but.click()
+    except:
+        pass
     print("flag has been submitted !!! ")
+    
+    ### trying to start machine
+    machine = f"//div[@id='task-{card}']//button[@class='btn btn-success']"
+    try:
+        driver.find_element('xpath', machine).click()
+        time.sleep(1)
+    except:
+        pass
     users[usr]["pointer"] = pointer
     users[usr]["streak_count"] += 1
     users[usr]["date"] = timef
     
     with open("./configs/userConfig.json", 'w') as file:
         json.dump(users, file, indent=4)
-        
+
     clock.wait(30)
 
