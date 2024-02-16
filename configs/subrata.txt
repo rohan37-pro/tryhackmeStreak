@@ -257,19 +257,55 @@
         "answer" : ""
 }@#$
 {
-        "link" : "https://tryhackme.com/room/furthernmap",
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
         "task_input" : 44,
         "input" : false,
         "answer" : ""
 }@#$
 {
-        "link" : "",
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "task_input" 1: ,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "Ben.Spring"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",#@@@
+        "task_input" : 3,
+        "input" : ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "task_input" : 4,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "$300 million — "
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "task_input" : 6,
+        "input" :false ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
         "task_input" : ,
         "input" : ,
         "answer" : ""
 }@#$
 {
-        "link" : "",
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
         "task_input" : ,
         "input" : ,
         "answer" : ""
