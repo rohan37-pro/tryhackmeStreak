@@ -958,6 +958,131 @@
         "input" : false,
         "answer" : ""
 }@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "Security engineer"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "Asset inventory"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "Exceptions"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "Secure by design"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "humans"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "Change management"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Tabletop exercise"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "Business Continuity"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "THM{S3CUR1TY_3NG1N33R5_R0CK}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 11,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 2,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "145 million"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "names, addresses, e-mail, birth dates"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 5,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "Cybercriminals"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "Thrill-seekers"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Hacktivists"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 9,
+        "input" : false,
+        "answer" : ""
+}@#$
+
+
+
+
+
 
 
 
