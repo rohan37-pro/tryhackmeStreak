@@ -159,6 +159,8 @@ def submit_flag(driver, users, usr):
     ### trying to start machine
     machine = f"//div[@id='task-{card}']//button[@class='btn btn-success']"
     try:
+        chain = ActionChains(driver)
+        chain.move_to_element(machine).click().perform()
         driver.find_element('xpath', machine).click()
         time.sleep(1)
     except:
