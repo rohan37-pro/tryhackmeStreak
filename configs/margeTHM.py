@@ -18,9 +18,19 @@ souman_flags = {}
 subrata_flags = {}
 souman_flags_len = len(souman)
 
+
+
 flags_no = len(thm)
-print(flags_no)
-for i in range(18):
-    s = json.loads(souman[i])
-    print(json.dumps(s, indent=4))
-    print(type(s))
+i = 1
+for flag in subrata[:-1]:
+    print("==>",i)
+    flag = flag.replace(chr(92), r"\\")
+    print(flag,'\n')
+    ob = json.loads(flag)
+    subrata_flags[i] = ob
+    
+    print(json.dumps(ob, indent=4))
+    i+=1
+
+with open("subrata_flags.json", 'w') as file:
+    json.dump(subrata_flags, file, indent=4)

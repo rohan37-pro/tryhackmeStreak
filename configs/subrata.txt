@@ -253,18 +253,18 @@
 {
         "link" : "https://tryhackme.com/room/furthernmap",
         "task_input" : 43,
-        "input" : false,
-        "answer" : ""
+        "input" : true,
+        "answer" : "y"
 }@#$
 {
-        "link" : "https://tryhackme.com/room/beginnerpathintro",
+        "link" : "https://tryhackme.com/room/furthernmap",
         "task_input" : 44,
         "input" : false,
         "answer" : ""
 }@#$
 {
         "link" : "https://tryhackme.com/room/beginnerpathintro",
-        "task_input" 1: ,
+        "task_input" : 1 ,
         "input" : false,
         "answer" : ""
 }@#$
@@ -275,10 +275,10 @@
         "answer" : "Ben.Spring"
 }@#$
 {
-        "link" : "https://tryhackme.com/room/beginnerpathintro",#@@@
+        "link" : "https://tryhackme.com/room/beginnerpathintro",
         "task_input" : 3,
-        "input" : ,
-        "answer" : ""
+        "input" : true,
+        "answer" : "THM{BRUTEFORCING}"
 }@#$
 {
         "link" : "https://tryhackme.com/room/beginnerpathintro",
@@ -296,17 +296,5 @@
         "link" : "https://tryhackme.com/room/beginnerpathintro",
         "task_input" : 6,
         "input" :false ,
-        "answer" : ""
-}@#$
-{
-        "link" : "https://tryhackme.com/room/beginnerpathintro",
-        "task_input" : ,
-        "input" : ,
-        "answer" : ""
-}@#$
-{
-        "link" : "https://tryhackme.com/room/beginnerpathintro",
-        "task_input" : ,
-        "input" : ,
         "answer" : ""
 }@#$
