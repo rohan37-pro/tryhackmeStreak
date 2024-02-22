@@ -1,29 +1,1589 @@
 {
-    "1" : {
-        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
-        "task_input" : 1,
-        "input" : true,
-        "answer" : "Offensive Security"
+    "1": {
+        "link": "https://tryhackme.com/room/introtooffensivesecurity",
+        "task_input": 1,
+        "input": true,
+        "answer": "Offensive Security"
     },
-    "2" : {
-        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
-        "task_input" : 2,
-        "input" : true,
-        "answer" : "BANK-HACKED"
+    "2": {
+        "link": "https://tryhackme.com/room/introtooffensivesecurity",
+        "task_input": 2,
+        "input": true,
+        "answer": "BANK-HACKED"
     },
-    "3" : {
-        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
-        "input" : false,
-        "task_input" : 3
+    "3": {
+        "link": "https://tryhackme.com/room/introtooffensivesecurity",
+        "input": false,
+        "task_input": 3
     },
-    "4" : {
-        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
-        "input" : false,
-        "task_input" : 4
+    "4": {
+        "link": "https://tryhackme.com/room/introtooffensivesecurity",
+        "input": false,
+        "task_input": 4
     },
-    "5" : {
-        "link" : "https://tryhackme.com/room/introtooffensivesecurity",
-        "input" : false,
-        "task_input" : 5
+    "5": {
+        "link": "https://tryhackme.com/room/introtooffensivesecurity",
+        "input": false,
+        "task_input": 5
+    },
+    "6": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "7": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 2,
+        "input": true,
+        "answer": "1991"
+    },
+    "8": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 3,
+        "input": false,
+        "answer": ""
+    },
+    "9": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 4,
+        "input": true,
+        "answer": "echo TryHackMe"
+    },
+    "10": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 5,
+        "input": true,
+        "answer": "TryHackMe"
+    },
+    "11": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 6,
+        "input": true,
+        "answer": "4"
+    },
+    "12": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 7,
+        "input": true,
+        "answer": "folder4"
+    },
+    "13": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 8,
+        "input": true,
+        "answer": "Hello World"
+    },
+    "14": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 9,
+        "input": true,
+        "answer": "/home/tryhackme/folder4"
+    },
+    "15": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 10,
+        "input": true,
+        "answer": "THM{ACCESS}"
+    },
+    "16": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 11,
+        "input": false,
+        "answer": ""
+    },
+    "17": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 12,
+        "input": true,
+        "answer": "&"
+    },
+    "18": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 13,
+        "input": true,
+        "answer": "echo password123 > passwords"
+    },
+    "19": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 14,
+        "input": true,
+        "answer": "echo tryhackme >> passwords"
+    },
+    "20": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 15,
+        "input": false,
+        "answer": ""
+    },
+    "21": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 16,
+        "input": false,
+        "answer": ""
+    },
+    "22": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 17,
+        "input": false,
+        "answer": ""
+    },
+    "23": {
+        "link": "https://tryhackme.com/room/linuxfundamentalspart1",
+        "task_input": 18,
+        "input": false,
+        "answer": ""
+    },
+    "24": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "25": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 2,
+        "input": true,
+        "answer": "White Hat"
+    },
+    "26": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 3,
+        "input": true,
+        "answer": "Black Hat"
+    },
+    "27": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 4,
+        "input": true,
+        "answer": "Rules of Engagement"
+    },
+    "28": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 5,
+        "input": true,
+        "answer": "Information Gathering"
+    },
+    "29": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 6,
+        "input": true,
+        "answer": "OSSTMM"
+    },
+    "30": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 7,
+        "input": true,
+        "answer": "OWASP"
+    },
+    "31": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 8,
+        "input": true,
+        "answer": "Black Box"
+    },
+    "32": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 9,
+        "input": true,
+        "answer": "White Box"
+    },
+    "33": {
+        "link": "https://tryhackme.com/room/pentestingfundamentals",
+        "task_input": 10,
+        "input": true,
+        "answer": "THM{PENTEST_COMPLETE}"
+    },
+    "34": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 1,
+        "input": true,
+        "answer": " Network"
+    },
+    "35": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 2,
+        "input": true,
+        "answer": "Tim Berners-Lee"
+    },
+    "36": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 3,
+        "input": true,
+        "answer": "internet protocol"
+    },
+    "37": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 4,
+        "input": true,
+        "answer": "octet"
+    },
+    "38": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 5,
+        "input": true,
+        "answer": "4"
+    },
+    "39": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 6,
+        "input": true,
+        "answer": "media access control"
+    },
+    "40": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 7,
+        "input": true,
+        "answer": "THM{YOU_GOT_ON_TRYHACKME}"
+    },
+    "41": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 8,
+        "input": true,
+        "answer": "icmp"
+    },
+    "42": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 9,
+        "input": true,
+        "answer": "Ping 10.10.10.10"
+    },
+    "43": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 10,
+        "input": true,
+        "answer": "THM{_PINGED_THE_SERVER}"
+    },
+    "44": {
+        "link": "https://tryhackme.com/room/whatisnetworking",
+        "task_input": 11,
+        "input": false,
+        "answer": ""
+    },
+    "45": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "46": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "47": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 3,
+        "input": false,
+        "answer": ""
+    },
+    "48": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "49": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 5,
+        "input": false,
+        "answer": ""
+    },
+    "50": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 6,
+        "input": false,
+        "answer": ""
+    },
+    "51": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 7,
+        "input": false,
+        "answer": ""
+    },
+    "52": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 8,
+        "input": false,
+        "answer": ""
+    },
+    "53": {
+        "link": "https://tryhackme.com/room/careersincyber",
+        "task_input": 9,
+        "input": false,
+        "answer": ""
+    },
+    "54": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "55": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 2,
+        "input": true,
+        "answer": "PsShutdown"
+    },
+    "56": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 3,
+        "input": true,
+        "answer": "Windows User"
+    },
+    "57": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 4,
+        "input": true,
+        "answer": "C:\\Windows\\System32\\control.exe /name Microsoft.Troubleshooting"
+    },
+    "58": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 5,
+        "input": true,
+        "answer": "control.exe"
+    },
+    "59": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 6,
+        "input": true,
+        "answer": "UserAccountControlSettings.exe"
+    },
+    "60": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 7,
+        "input": true,
+        "answer": "compmgmt.msc"
+    },
+    "61": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 8,
+        "input": true,
+        "answer": "6:15 AM"
+    },
+    "62": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 9,
+        "input": true,
+        "answer": "sh4r3dF0Ld3r"
+    },
+    "63": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 10,
+        "input": true,
+        "answer": "msinfo32.exe"
+    },
+    "64": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 11,
+        "input": true,
+        "answer": "THM-WINFUN2"
+    },
+    "65": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 12,
+        "input": true,
+        "answer": "%SystemRoot%\\system32\\cmd.exe"
+    },
+    "66": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 13,
+        "input": true,
+        "answer": "resmon.exe"
+    },
+    "67": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 14,
+        "input": true,
+        "answer": "C:\\Windows\\System32\\cmd.exe /k %windir%\\system32\\ipconfig.exe"
+    },
+    "68": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 15,
+        "input": true,
+        "answer": "ipconfig /all"
+    },
+    "69": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 16,
+        "input": true,
+        "answer": "regedt32.exe"
+    },
+    "70": {
+        "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
+        "task_input": 17,
+        "input": false,
+        "answer": ""
+    },
+    "71": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "72": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 2,
+        "input": true,
+        "answer": "5/3/2021"
+    },
+    "73": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 3,
+        "input": true,
+        "answer": "Virus & threat protection"
+    },
+    "74": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 4,
+        "input": true,
+        "answer": "Real-time protection"
+    },
+    "75": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 5,
+        "input": true,
+        "answer": "Public network"
+    },
+    "76": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 6,
+        "input": false,
+        "answer": ""
+    },
+    "77": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 7,
+        "input": true,
+        "answer": "Trusted Platform Module"
+    },
+    "78": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 8,
+        "input": true,
+        "answer": "USB startup key"
+    },
+    "79": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 9,
+        "input": true,
+        "answer": "Volume Shadow Copy Service"
+    },
+    "80": {
+        "link": "https://tryhackme.com/room/windowsfundamentals3xzx",
+        "task_input": 10,
+        "input": false,
+        "answer": ""
+    },
+    "81": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "82": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "83": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 3,
+        "input": true,
+        "answer": "Ray Tomlinson"
+    },
+    "84": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 4,
+        "input": true,
+        "answer": "Packet Switching"
+    },
+    "85": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 5,
+        "input": true,
+        "answer": "John von Neumann"
+    },
+    "86": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 6,
+        "input": true,
+        "answer": "\u2019m the creeper, catch me if you can!"
+    },
+    "87": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 7,
+        "input": true,
+        "answer": "Advanced Research Projects Agency Network"
+    },
+    "88": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 8,
+        "input": true,
+        "answer": "Network Working Group"
+    },
+    "89": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 9,
+        "input": true,
+        "answer": "Creeper"
+    },
+    "90": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 10,
+        "input": false,
+        "answer": ""
+    },
+    "91": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 11,
+        "input": true,
+        "answer": "Ray Tomlinson"
+    },
+    "92": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 12,
+        "input": true,
+        "answer": "Nematode"
+    },
+    "93": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 13,
+        "input": true,
+        "answer": "Reaper"
+    },
+    "94": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 14,
+        "input": true,
+        "answer": "A resource-sharing capability"
+    },
+    "95": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 15,
+        "input": true,
+        "answer": "Application Programming Interface"
+    },
+    "96": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 16,
+        "input": false,
+        "answer": ""
+    },
+    "97": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 17,
+        "input": true,
+        "answer": "Denial of service attack"
+    },
+    "98": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 18,
+        "input": true,
+        "answer": "Y"
+    },
+    "99": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 19,
+        "input": true,
+        "answer": "looney tunes cartoons"
+    },
+    "100": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 20,
+        "input": false,
+        "answer": ""
+    },
+    "101": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 21,
+        "input": true,
+        "answer": "1975"
+    },
+    "102": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 22,
+        "input": true,
+        "answer": "Y"
+    },
+    "103": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 23,
+        "input": true,
+        "answer": "UNIVACs"
+    },
+    "104": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 24,
+        "input": true,
+        "answer": "a Trojan"
+    },
+    "105": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 25,
+        "input": true,
+        "answer": "the Greeks"
+    },
+    "106": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 26,
+        "input": false,
+        "answer": ""
+    },
+    "107": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 27,
+        "input": true,
+        "answer": "US navy"
+    },
+    "108": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 28,
+        "input": true,
+        "answer": "7"
+    },
+    "109": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 29,
+        "input": true,
+        "answer": "1982"
+    },
+    "110": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 30,
+        "input": true,
+        "answer": "less"
+    },
+    "111": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 31,
+        "input": true,
+        "answer": "2 weeks"
+    },
+    "112": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 32,
+        "input": true,
+        "answer": "Apple ii"
+    },
+    "113": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 33,
+        "input": false,
+        "answer": ""
+    },
+    "114": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 34,
+        "input": true,
+        "answer": "Berkeley r-commands"
+    },
+    "115": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 35,
+        "input": true,
+        "answer": "Robert Tappan Morris"
+    },
+    "116": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 36,
+        "input": true,
+        "answer": "denial of service"
+    },
+    "117": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 37,
+        "input": true,
+        "answer": "1988"
+    },
+    "118": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 38,
+        "input": true,
+        "answer": "2000"
+    },
+    "119": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 39,
+        "input": true,
+        "answer": "remote shell"
+    },
+    "120": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 40,
+        "input": true,
+        "answer": "1986 Computer Fraud and Abuse act"
+    },
+    "121": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 41,
+        "input": false,
+        "answer": ""
+    },
+    "122": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 42,
+        "input": true,
+        "answer": "Cascade"
+    },
+    "123": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 43,
+        "input": true,
+        "answer": ".com"
+    },
+    "124": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 44,
+        "input": true,
+        "answer": "40"
+    },
+    "125": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 45,
+        "input": true,
+        "answer": "DOS"
+    },
+    "126": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 46,
+        "input": true,
+        "answer": "IBM"
+    },
+    "127": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 47,
+        "input": true,
+        "answer": "1704"
+    },
+    "128": {
+        "link": "https://tryhackme.com/room/historyofmalware",
+        "task_input": 48,
+        "input": false,
+        "answer": ""
+    },
+    "129": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "130": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "131": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 3,
+        "input": true,
+        "answer": "The Iran Nuclear Programme"
+    },
+    "132": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "133": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 5,
+        "input": true,
+        "answer": "THM{I_CAUGHT_ALL_THE_PHISH}"
+    },
+    "134": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 6,
+        "input": true,
+        "answer": "Bitcoin"
+    },
+    "135": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 7,
+        "input": false,
+        "answer": ""
+    },
+    "136": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 8,
+        "input": false,
+        "answer": ""
+    },
+    "137": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 9,
+        "input": true,
+        "answer": "TryHackMe123!"
+    },
+    "138": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 10,
+        "input": false,
+        "answer": ""
+    },
+    "139": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 11,
+        "input": true,
+        "answer": "App"
+    },
+    "140": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 12,
+        "input": false,
+        "answer": ""
+    },
+    "141": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 13,
+        "input": false,
+        "answer": ""
+    },
+    "142": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 14,
+        "input": true,
+        "answer": "3"
+    },
+    "143": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 15,
+        "input": true,
+        "answer": "1"
+    },
+    "144": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 16,
+        "input": false,
+        "answer": ""
+    },
+    "145": {
+        "link": "https://tryhackme.com/room/commonattacks",
+        "task_input": 17,
+        "input": false,
+        "answer": ""
+    },
+    "146": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "147": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 2,
+        "input": true,
+        "answer": "Burp Suite Enterprise"
+    },
+    "148": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 3,
+        "input": true,
+        "answer": "Mobile"
+    },
+    "149": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 4,
+        "input": true,
+        "answer": "Proxy"
+    },
+    "150": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 5,
+        "input": true,
+        "answer": "Intruder"
+    },
+    "151": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 6,
+        "input": false,
+        "answer": ""
+    },
+    "152": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 7,
+        "input": true,
+        "answer": "Event log"
+    },
+    "153": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 8,
+        "input": true,
+        "answer": "Proxy tab"
+    },
+    "154": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 9,
+        "input": true,
+        "answer": "Sessions"
+    },
+    "155": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 10,
+        "input": true,
+        "answer": "Suite"
+    },
+    "156": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 11,
+        "input": true,
+        "answer": "Hotkeys"
+    },
+    "157": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 12,
+        "input": true,
+        "answer": "yea"
+    },
+    "158": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 13,
+        "input": false,
+        "answer": ""
+    },
+    "159": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 14,
+        "input": false,
+        "answer": ""
+    },
+    "160": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 15,
+        "input": true,
+        "answer": "THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}"
+    },
+    "161": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 16,
+        "input": false,
+        "answer": ""
+    },
+    "162": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 17,
+        "input": false,
+        "answer": ""
+    },
+    "163": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 18,
+        "input": false,
+        "answer": ""
+    },
+    "164": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 19,
+        "input": false,
+        "answer": ""
+    },
+    "165": {
+        "link": "https://tryhackme.com/room/burpsuitebasics",
+        "task_input": 20,
+        "input": false,
+        "answer": ""
+    },
+    "166": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "167": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 2,
+        "input": true,
+        "answer": "Security engineer"
+    },
+    "168": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 3,
+        "input": true,
+        "answer": "Asset inventory"
+    },
+    "169": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 4,
+        "input": true,
+        "answer": "Exceptions"
+    },
+    "170": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 5,
+        "input": true,
+        "answer": "Secure by design"
+    },
+    "171": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 6,
+        "input": true,
+        "answer": "humans"
+    },
+    "172": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 7,
+        "input": true,
+        "answer": "Change management"
+    },
+    "173": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 8,
+        "input": true,
+        "answer": "Tabletop exercise"
+    },
+    "174": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 9,
+        "input": true,
+        "answer": "Business Continuity"
+    },
+    "175": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 10,
+        "input": true,
+        "answer": "THM{S3CUR1TY_3NG1N33R5_R0CK}"
+    },
+    "176": {
+        "link": "https://tryhackme.com/room/securityengineerintro",
+        "task_input": 11,
+        "input": false,
+        "answer": ""
+    },
+    "177": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "178": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "179": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 3,
+        "input": true,
+        "answer": "145 million"
+    },
+    "180": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 4,
+        "input": true,
+        "answer": "names, addresses, e-mail, birth dates"
+    },
+    "181": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 5,
+        "input": false,
+        "answer": ""
+    },
+    "182": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 6,
+        "input": true,
+        "answer": "Cybercriminals"
+    },
+    "183": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 7,
+        "input": true,
+        "answer": "Thrill-seekers"
+    },
+    "184": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 8,
+        "input": true,
+        "answer": "Hacktivists"
+    },
+    "185": {
+        "link": "https://tryhackme.com/room/securityawarenessintro",
+        "task_input": 9,
+        "input": false,
+        "answer": ""
+    },
+    "186": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "187": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 2,
+        "input": true,
+        "answer": "THM{PRINT_STATEMENTS}"
+    },
+    "188": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 3,
+        "input": true,
+        "answer": "THM{ADDITI0N}"
+    },
+    "189": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 4,
+        "input": true,
+        "answer": "THM{SUBTRCT}"
+    },
+    "190": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 5,
+        "input": true,
+        "answer": "THM{MULTIPLICATION_PYTHON}"
+    },
+    "191": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 6,
+        "input": true,
+        "answer": "THM{EXP0N3NT_POWER}"
+    },
+    "192": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 7,
+        "input": false,
+        "answer": ""
+    },
+    "193": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 8,
+        "input": false,
+        "answer": ""
+    },
+    "194": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 9,
+        "input": true,
+        "answer": "THM{VARIABL3S}"
+    },
+    "195": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 10,
+        "input": false,
+        "answer": ""
+    },
+    "196": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 11,
+        "input": false,
+        "answer": ""
+    },
+    "197": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 12,
+        "input": true,
+        "answer": "THM{IF_STATEMENT_SHOPPING}"
+    },
+    "198": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 13,
+        "input": true,
+        "answer": "THM{MY_FIRST_APP}"
+    },
+    "199": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 14,
+        "input": true,
+        "answer": "THM{L00PS_WHILE_FOR}"
+    },
+    "200": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 15,
+        "input": true,
+        "answer": "THM{BITC0IN_INVESTOR}"
+    },
+    "201": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 16,
+        "input": false,
+        "answer": ""
+    },
+    "202": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 17,
+        "input": true,
+        "answer": "THM{F1LE_R3AD}"
+    },
+    "203": {
+        "link": "https://tryhackme.com/room/pythonbasics",
+        "task_input": 18,
+        "input": false,
+        "answer": ""
+    },
+    "204": {
+        "link": "https://tryhackme.com/room/tickets1",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "205": {
+        "link": "https://tryhackme.com/room/tickets1",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "206": {
+        "link": "https://tryhackme.com/room/tickets1",
+        "task_input": 3,
+        "input": false,
+        "answer": ""
+    },
+    "207": {
+        "link": "https://tryhackme.com/room/tickets1",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "208": {
+        "link": "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "209": {
+        "link": "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input": 2,
+        "input": true,
+        "answer": "/bin/bash"
+    },
+    "210": {
+        "link": "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input": 3,
+        "input": true,
+        "answer": "THM{l33t_s3cur1ty_bypass}"
+    },
+    "211": {
+        "link": "https://tryhackme.com/room/tickets2",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "212": {
+        "link": "https://tryhackme.com/room/tickets2",
+        "task_input": 2,
+        "input": false,
+        "answer": ""
+    },
+    "213": {
+        "link": "https://tryhackme.com/room/tickets2",
+        "task_input": 3,
+        "input": false,
+        "answer": ""
+    },
+    "214": {
+        "link": "https://tryhackme.com/room/tickets2",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "215": {
+        "link": "https://tryhackme.com/room/tickets2",
+        "task_input": 5,
+        "input": false,
+        "answer": ""
+    },
+    "217": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "218": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 2,
+        "input": true,
+        "answer": "Ports"
+    },
+    "219": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 3,
+        "input": true,
+        "answer": "65535"
+    },
+    "220": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 4,
+        "input": true,
+        "answer": "1024"
+    },
+    "221": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 5,
+        "input": true,
+        "answer": "-sS"
+    },
+    "222": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 6,
+        "input": true,
+        "answer": "-sU"
+    },
+    "223": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 7,
+        "input": true,
+        "answer": "-O"
+    },
+    "224": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 8,
+        "input": true,
+        "answer": "-sV"
+    },
+    "225": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 9,
+        "input": true,
+        "answer": " -v"
+    },
+    "226": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 10,
+        "input": true,
+        "answer": "-vv"
+    },
+    "227": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 11,
+        "input": true,
+        "answer": "-oA"
+    },
+    "228": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 12,
+        "input": true,
+        "answer": "-oN"
+    },
+    "229": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 13,
+        "input": true,
+        "answer": "-oG"
+    },
+    "230": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 14,
+        "input": true,
+        "answer": " -A"
+    },
+    "231": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 15,
+        "input": true,
+        "answer": "-T5"
+    },
+    "232": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 16,
+        "input": true,
+        "answer": "-p 80"
+    },
+    "233": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 17,
+        "input": true,
+        "answer": "-p 1000-1500"
+    },
+    "234": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 18,
+        "input": true,
+        "answer": "-p-"
+    },
+    "235": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 19,
+        "input": true,
+        "answer": "--script"
+    },
+    "236": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 20,
+        "input": true,
+        "answer": "--script=vuln"
+    },
+    "237": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 21,
+        "input": false,
+        "answer": ""
+    },
+    "238": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 22,
+        "input": true,
+        "answer": "RFC 9293"
+    },
+    "239": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 23,
+        "input": true,
+        "answer": "RST"
+    },
+    "240": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 24,
+        "input": true,
+        "answer": "Half-Open, Stealth"
+    },
+    "241": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 25,
+        "input": true,
+        "answer": "N"
+    },
+    "242": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 26,
+        "input": true,
+        "answer": "open|filtered"
+    },
+    "243": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 27,
+        "input": true,
+        "answer": "ICMP"
+    },
+    "244": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 28,
+        "input": true,
+        "answer": "xmas"
+    },
+    "245": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 29,
+        "input": true,
+        "answer": "Firewall Evasion"
+    },
+    "246": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 30,
+        "input": true,
+        "answer": "Microsoft Windows"
+    },
+    "247": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 31,
+        "input": true,
+        "answer": "nmap -sn 172.16.0.0/16"
+    },
+    "248": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 32,
+        "input": true,
+        "answer": "Lua"
+    },
+    "249": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 33,
+        "input": true,
+        "answer": "intrusive"
+    },
+    "250": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 34,
+        "input": true,
+        "answer": "maxlist"
+    },
+    "251": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 35,
+        "input": true,
+        "answer": "smb-os-discovery.nse"
+    },
+    "252": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 36,
+        "input": true,
+        "answer": "smb-brute"
+    },
+    "253": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 37,
+        "input": true,
+        "answer": "ICMP"
+    },
+    "254": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 38,
+        "input": true,
+        "answer": "--data-length"
+    },
+    "255": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 39,
+        "input": true,
+        "answer": "N"
+    },
+    "256": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 40,
+        "input": true,
+        "answer": "999"
+    },
+    "257": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 41,
+        "input": true,
+        "answer": "No Response"
+    },
+    "258": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 42,
+        "input": true,
+        "answer": "5"
+    },
+    "259": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 43,
+        "input": true,
+        "answer": "y"
+    },
+    "260": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 44,
+        "input": false,
+        "answer": ""
+    },
+    "261": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "262": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 2,
+        "input": true,
+        "answer": "Ben.Spring"
+    },
+    "263": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 3,
+        "input": true,
+        "answer": "THM{BRUTEFORCING}"
+    },
+    "264": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "265": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 5,
+        "input": true,
+        "answer": "$300 million \u2014 "
+    },
+    "266": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 6,
+        "input": false,
+        "answer": ""
     }
 }
