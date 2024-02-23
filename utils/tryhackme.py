@@ -1,6 +1,7 @@
 import time
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 import platform
 from datetime import datetime
@@ -14,11 +15,15 @@ def get_driver(profile):
     option = webdriver.ChromeOptions()
     option.add_argument("--disable-notifications")
     if platform.system() =="Windows":
-        option.add_argument(f"--user-data-dir=C:/Users/ROHIT MAJI/AppData/Local/Google/Chrome/User Data/tryhackme/{profile}")
+        option.add_argument(f"--user-data-dir=C:/Users/{current_user}/AppData/Local/Google/Chrome/User Data/tryhackme/{profile}")
         try:
             driver = webdriver.Chrome(executable_path="drivers/chromedriver.exe",options=option)
         except:
-            driver = webdriver.Chrome(options=option)
+            try:
+                driver = webdriver.Chrome(options=option)
+            except:
+                service = Service(executable_path="drivers/chromedriver.exe")
+                driver = webdriver.Chrome(service=service, options=option)
     elif platform.system()=="Linux":
         # set this option for linux in order to work on linux 
         # option.add_argument(f"--user-data-dir=/tryhackme/{profile}")  
@@ -56,6 +61,16 @@ def login(driver) :
 
 
 
+def wait_to_load_room(driver):
+    print("waiting to load the room...")
+    while True:
+        try:
+            driver.find_element('xpath', "//div[@id='loader']")
+            time.sleep(0.5)
+        except:
+            break
+
+
 
 def submit_flag(driver, users, usr):
     ## constants ##
@@ -83,6 +98,7 @@ def submit_flag(driver, users, usr):
         except:
             pass
 
+        wait_to_load_room(driver)
         join_room(driver)
         close_pop_up(driver)
         while True:
@@ -114,7 +130,6 @@ def submit_flag(driver, users, usr):
         if tasks >= task_input:
             print(f"found at task-card number {i}")
             card = i
-
             elem = driver.find_element('xpath', f"//div[@href='#collapse{i}']")
             if elem.get_attribute("aria-expanded") == "false":
                 chain = ActionChains(driver)
@@ -123,31 +138,39 @@ def submit_flag(driver, users, usr):
             break
 
     time.sleep(2)
-    ### trying to start machine
-    machine = f"//div[@id='task-{card}']//button[@class='btn btn-success']"
-    try:
-        driver.find_element('xpath', machine).click()
-        time.sleep(1)
-    except:
-        pass
     
     if flag["input"] :
         input = f"({input})[{task_input}]"
         element = driver.find_element("xpath", input)
         chain = ActionChains(driver)
-        chain.move_to_element(element).send_keys(flag["answer"]).perform()
-        time.sleep(2)
+        chain.move_to_element(element).perform()
+        element.send_keys(flag["answer"])
+        time.sleep(1)
     submit = f"({submit})[{task_input}]"
     but = driver.find_element("xpath", submit)
     chain = ActionChains(driver)
     chain.move_to_element(but).click().perform()
+    try:
+        but.click()
+    except:
+        pass
     print("flag has been submitted !!! ")
+    
+    ### trying to start machine
+    machine = f"//div[@id='task-{card}']//button[@class='btn btn-success']"
+    try:
+        chain = ActionChains(driver)
+        chain.move_to_element(machine).click().perform()
+        driver.find_element('xpath', machine).click()
+        time.sleep(1)
+    except:
+        pass
     users[usr]["pointer"] = pointer
     users[usr]["streak_count"] += 1
     users[usr]["date"] = timef
     
     with open("./configs/userConfig.json", 'w') as file:
         json.dump(users, file, indent=4)
-        
+
     clock.wait(30)
 
