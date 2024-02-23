@@ -958,6 +958,318 @@
         "input" : false,
         "answer" : ""
 }@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "Security engineer"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "Asset inventory"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "Exceptions"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "Secure by design"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "humans"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "Change management"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Tabletop exercise"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "Business Continuity"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 10,
+        "input" : true,
+        "answer" : "THM{S3CUR1TY_3NG1N33R5_R0CK}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityengineerintro",
+        "task_input" : 11,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 2,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "145 million"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "names, addresses, e-mail, birth dates"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 5,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "Cybercriminals"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 7,
+        "input" : true,
+        "answer" : "Thrill-seekers"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 8,
+        "input" : true,
+        "answer" : "Hacktivists"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/securityawarenessintro",
+        "task_input" : 9,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "THM{PRINT_STATEMENTS}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "THM{ADDITI0N}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "THM{SUBTRCT}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "THM{MULTIPLICATION_PYTHON}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "THM{EXP0N3NT_POWER}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 7,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 8,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 9,
+        "input" : true,
+        "answer" : "THM{VARIABL3S}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 10,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 11,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 12,
+        "input" : true,
+        "answer" : "THM{IF_STATEMENT_SHOPPING}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 13,
+        "input" : true,
+        "answer" : "THM{MY_FIRST_APP}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 14,
+        "input" : true,
+        "answer" : "THM{L00PS_WHILE_FOR}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 15,
+        "input" : true,
+        "answer" : "THM{BITC0IN_INVESTOR}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 16,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 17,
+        "input" : true,
+        "answer" : "THM{F1LE_R3AD}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/pythonbasics",
+        "task_input" : 18,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets1",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets1",
+        "task_input" : 2,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets1",
+        "task_input" : 3,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets1",
+        "task_input" : 4,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input" : 2,
+        "input" : true,
+        "answer" : "/bin/bash"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/sudovulnsbypass",
+        "task_input" : 3,
+        "input" : true,
+        "answer" : "THM{l33t_s3cur1ty_bypass}"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets2",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets2",
+        "task_input" : 2,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets2",
+        "task_input" : 3,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets2",
+        "task_input" : 4,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/tickets2",
+        "task_input" : 5,
+        "input" : false,
+        "answer" : ""
+}@#$
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

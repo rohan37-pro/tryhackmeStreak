@@ -1,0 +1,302 @@
+{
+    "1": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "2": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 2,
+        "input": true,
+        "answer": "Ports"
+    },
+    "3": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 3,
+        "input": true,
+        "answer": "65535"
+    },
+    "4": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 4,
+        "input": true,
+        "answer": "1024"
+    },
+    "5": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 5,
+        "input": true,
+        "answer": "-sS"
+    },
+    "6": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 6,
+        "input": true,
+        "answer": "-sU"
+    },
+    "7": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 7,
+        "input": true,
+        "answer": "-O"
+    },
+    "8": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 8,
+        "input": true,
+        "answer": "-sV"
+    },
+    "9": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 9,
+        "input": true,
+        "answer": " -v"
+    },
+    "10": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 10,
+        "input": true,
+        "answer": "-vv"
+    },
+    "11": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 11,
+        "input": true,
+        "answer": "-oA"
+    },
+    "12": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 12,
+        "input": true,
+        "answer": "-oN"
+    },
+    "13": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 13,
+        "input": true,
+        "answer": "-oG"
+    },
+    "14": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 14,
+        "input": true,
+        "answer": " -A"
+    },
+    "15": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 15,
+        "input": true,
+        "answer": "-T5"
+    },
+    "16": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 16,
+        "input": true,
+        "answer": "-p 80"
+    },
+    "17": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 17,
+        "input": true,
+        "answer": "-p 1000-1500"
+    },
+    "18": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 18,
+        "input": true,
+        "answer": "-p-"
+    },
+    "19": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 19,
+        "input": true,
+        "answer": "--script"
+    },
+    "20": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 20,
+        "input": true,
+        "answer": "--script=vuln"
+    },
+    "21": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 21,
+        "input": false,
+        "answer": ""
+    },
+    "22": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 22,
+        "input": true,
+        "answer": "RFC 9293"
+    },
+    "23": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 23,
+        "input": true,
+        "answer": "RST"
+    },
+    "24": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 24,
+        "input": true,
+        "answer": "Half-Open, Stealth"
+    },
+    "25": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 25,
+        "input": true,
+        "answer": "N"
+    },
+    "26": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 26,
+        "input": true,
+        "answer": "open|filtered"
+    },
+    "27": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 27,
+        "input": true,
+        "answer": "ICMP"
+    },
+    "28": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 28,
+        "input": true,
+        "answer": "xmas"
+    },
+    "29": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 29,
+        "input": true,
+        "answer": "Firewall Evasion"
+    },
+    "30": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 30,
+        "input": true,
+        "answer": "Microsoft Windows"
+    },
+    "31": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 31,
+        "input": true,
+        "answer": "nmap -sn 172.16.0.0/16"
+    },
+    "32": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 32,
+        "input": true,
+        "answer": "Lua"
+    },
+    "33": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 33,
+        "input": true,
+        "answer": "intrusive"
+    },
+    "34": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 34,
+        "input": true,
+        "answer": "maxlist"
+    },
+    "35": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 35,
+        "input": true,
+        "answer": "smb-os-discovery.nse"
+    },
+    "36": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 36,
+        "input": true,
+        "answer": "smb-brute"
+    },
+    "37": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 37,
+        "input": true,
+        "answer": "ICMP"
+    },
+    "38": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 38,
+        "input": true,
+        "answer": "--data-length"
+    },
+    "39": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 39,
+        "input": true,
+        "answer": "N"
+    },
+    "40": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 40,
+        "input": true,
+        "answer": "999"
+    },
+    "41": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 41,
+        "input": true,
+        "answer": "No Response"
+    },
+    "42": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 42,
+        "input": true,
+        "answer": "5"
+    },
+    "43": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 43,
+        "input": true,
+        "answer": "y"
+    },
+    "44": {
+        "link": "https://tryhackme.com/room/furthernmap",
+        "task_input": 44,
+        "input": false,
+        "answer": ""
+    },
+    "45": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "46": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 2,
+        "input": true,
+        "answer": "Ben.Spring"
+    },
+    "47": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 3,
+        "input": true,
+        "answer": "THM{BRUTEFORCING}"
+    },
+    "48": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 4,
+        "input": false,
+        "answer": ""
+    },
+    "49": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 5,
+        "input": true,
+        "answer": "$300 million \u2014 "
+    },
+    "50": {
+        "link": "https://tryhackme.com/room/beginnerpathintro",
+        "task_input": 6,
+        "input": false,
+        "answer": ""
+    }
+}

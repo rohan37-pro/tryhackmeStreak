@@ -1,0 +1,204 @@
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 1,
+        "input" : false,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 2,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 3,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : ,
+        "input" :false ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 5,
+        "input" : true,
+        "answer" : "073403c8a58a1f80d943455fb30724b9"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 6 ,
+        "input" : true ,
+        "answer" : "822c73956184f694993bede3eb39f959"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/mrrobot",
+        "task_input" : 7 ,
+        "input" : true,
+        "answer" : "04787ddef27c3dee1ee161b21670b4e4"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 1 ,
+        "input" :false ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 2 ,
+        "input" :true ,
+        "answer" : "uid=1000(user) gid=1000(user) groups=1000(user),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev)"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 3,
+        "input" :false ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 4,
+        "input" : true,
+        "answer" : "$6$Tb/euwmK$OXA.dwMeOAcopwBl68boTG5zi65wIHsc84OWAIye5VITLLtVlaXvRDJXET..it8r.jbrlpfZeMdwD3B0fGxJI0"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :5 ,
+        "input" :true ,
+        "answer" : "sha512crypt"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 6,
+        "input" : true,
+        "answer" : "password123"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 7,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 8,
+        "input" :true ,
+        "answer" : "uid=0(root) gid=0(root) groups=0(root)"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 9,
+        "input" :true ,
+        "answer" : "11"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 10,
+        "input" :true ,
+        "answer" : "Apache2"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :11,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :12 ,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :13 ,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 14,
+        "input" : true,
+        "answer" : "/home/user:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :15 ,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :16 ,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :17 ,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :18 ,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :19 ,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :20 ,
+        "input" : true,
+        "answer" : "mysql -h somehost.local -uroot -ppassword123"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :21 ,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :22 ,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" :23 ,
+        "input" :false ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input":24 ,
+        "input" :true ,
+        "answer" : "no_root_squash"
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 25,
+        "input" :flase ,
+        "answer" : ""
+}@#$
+{
+        "link" : "https://tryhackme.com/room/linuxprivesc?path=undefined",
+        "task_input" : 26,
+        "input" : flase,
+        "answer" : ""
+}@#$
+{
+        "link" : "",
+        "task_input" : ,
+        "input" : ,
+        "answer" : ""
+}@#$
