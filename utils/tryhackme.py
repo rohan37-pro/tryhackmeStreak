@@ -51,10 +51,12 @@ def join_room(driver):
         pass
     
 
-def login(driver) :
+def login(driver, user) :
     driver.get("https://tryhackme.com/login")
     currentURL = driver.current_url
     print("Waiting to login... \nPlease login with your credentials.")
+    time.sleep(1)
+    driver.find_element('xpath', "//input[@id='email']").send_keys(user)
     while driver.current_url == currentURL:
         time.sleep(0.5)
     print(f"successfully logged in\n")
@@ -92,7 +94,7 @@ def submit_flag(driver, users, usr):
         # check if logged in...
         try:
             driver.find_element('xpath', "(//a[@href='/login'])[1]")
-            login(driver)
+            login(driver, usr)
             driver.get(flag['link'])
             time.sleep(2)
         except:
@@ -119,7 +121,7 @@ def submit_flag(driver, users, usr):
                 break
             except Exception as e:
                 close_pop_up(driver)
-                print(f"exception occure.\n{e}")
+                print(f"exception occure.")
                 time.sleep(1)
     
     print("searching for the card to expand")
@@ -131,7 +133,7 @@ def submit_flag(driver, users, usr):
             print(f"found at task-card number {i}")
             card = i
             elem = driver.find_element('xpath', f"//div[@href='#collapse{i}']")
-            if elem.get_attribute("aria-expanded") == "false":
+            while elem.get_attribute("aria-expanded") == "false":
                 chain = ActionChains(driver)
                 chain.move_to_element(elem).pause(1).click().perform()
             print("the card has been expanded")

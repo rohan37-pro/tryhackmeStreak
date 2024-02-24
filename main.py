@@ -22,7 +22,7 @@ for usr in users:
     driver = tryhackme.get_driver(usr)
 
     if users[usr]["login"] == False:
-        tryhackme.login(driver)
+        tryhackme.login(driver, usr)
         users[usr]["login"] = True
         with open("./configs/userConfig.json", 'w') as file:
             json.dump(users, file, indent=4)
