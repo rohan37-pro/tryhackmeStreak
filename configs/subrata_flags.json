@@ -291,11 +291,305 @@
         "link": "https://tryhackme.com/room/beginnerpathintro",
         "task_input": 5,
         "input": true,
-        "answer": "$300 million \u2014 "
+        "answer": "$300 million \u00e2\u20ac\u201d "
     },
     "50": {
         "link": "https://tryhackme.com/room/beginnerpathintro",
         "task_input": 6,
+        "input": false,
+        "answer": ""
+    },
+    "51": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 1,
+        "input": false,
+        "answer": ""
+    },
+    "52": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 2,
+        "input": true,
+        "answer": "4"
+    },
+    "53": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 3,
+        "input": true,
+        "answer": "2"
+    },
+    "54": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 4,
+        "input": true,
+        "answer": "2"
+    },
+    "55": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 5,
+        "input": true,
+        "answer": "1"
+    },
+    "56": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 6,
+        "input": true,
+        "answer": "6"
+    },
+    "57": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 7,
+        "input": true,
+        "answer": "5"
+    },
+    "58": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 8,
+        "input": true,
+        "answer": "7"
+    },
+    "59": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 9,
+        "input": true,
+        "answer": "3"
+    },
+    "60": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 10,
+        "input": true,
+        "answer": "Segments"
+    },
+    "61": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 11,
+        "input": true,
+        "answer": "7"
+    },
+    "62": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 12,
+        "input": true,
+        "answer": "udp"
+    },
+    "63": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 13,
+        "input": true,
+        "answer": "Frames"
+    },
+    "64": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 14,
+        "input": true,
+        "answer": "Datagrams"
+    },
+    "65": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 15,
+        "input": true,
+        "answer": "De-encapsulation"
+    },
+    "66": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 16,
+        "input": true,
+        "answer": " Data Link"
+    },
+    "67": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 17,
+        "input": true,
+        "answer": "Aye"
+    },
+    "68": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 18,
+        "input": true,
+        "answer": "TCP/IP"
+    },
+    "69": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 19,
+        "input": true,
+        "answer": "Transport"
+    },
+    "70": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 20,
+        "input": true,
+        "answer": "Application"
+    },
+    "71": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 21,
+        "input": true,
+        "answer": " Physical"
+    },
+    "72": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 22,
+        "input": true,
+        "answer": "Internet"
+    },
+    "73": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 23,
+        "input": true,
+        "answer": " Connection-based"
+    },
+    "74": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 24,
+        "input": true,
+        "answer": "Synchronise"
+    },
+    "75": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 25,
+        "input": true,
+        "answer": "SYN/ACK"
+    },
+    "76": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 26,
+        "input": true,
+        "answer": "ACK"
+    },
+    "77": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 27,
+        "input": true,
+        "answer": "ping bbc.co.uk"
+    },
+    "78": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 28,
+        "input": true,
+        "answer": "217.160.0.152"
+    },
+    "79": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 29,
+        "input": true,
+        "answer": " -i"
+    },
+    "80": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 30,
+        "input": true,
+        "answer": " -4"
+    },
+    "81": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 31,
+        "input": true,
+        "answer": "-v"
+    },
+    "82": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 32,
+        "input": false,
+        "answer": ""
+    },
+    "83": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 33,
+        "input": true,
+        "answer": "-i"
+    },
+    "84": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 34,
+        "input": true,
+        "answer": " -t"
+    },
+    "85": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 35,
+        "input": true,
+        "answer": "Internet"
+    },
+    "86": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 36,
+        "input": false,
+        "answer": ""
+    },
+    "87": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 37,
+        "input": true,
+        "answer": "94025"
+    },
+    "88": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 38,
+        "input": true,
+        "answer": "29/03/1997"
+    },
+    "89": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 39,
+        "input": false,
+        "answer": ""
+    },
+    "90": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 40,
+        "input": true,
+        "answer": "Redmond"
+    },
+    "91": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 41,
+        "input": true,
+        "answer": "Bellevue Golf Cours"
+    },
+    "92": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 42,
+        "input": true,
+        "answer": "msnhst@microsoft.com"
+    },
+    "93": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 43,
+        "input": true,
+        "answer": "Domain Name System"
+    },
+    "94": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 44,
+        "input": true,
+        "answer": "Recursive"
+    },
+    "95": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 45,
+        "input": true,
+        "answer": "Top-level Domain"
+    },
+    "96": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 46,
+        "input": true,
+        "answer": "hosts file"
+    },
+    "97": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 47,
+        "input": true,
+        "answer": "8.8.4.4"
+    },
+    "98": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 48,
+        "input": true,
+        "answer": "86400"
+    },
+    "99": {
+        "link": "https://tryhackme.com/room/introtonetworking",
+        "task_input": 49,
         "input": false,
         "answer": ""
     }

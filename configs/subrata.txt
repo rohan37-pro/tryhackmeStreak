@@ -347,7 +347,7 @@
         "answer" : "7"
 }@#$
 { 
-    "link" : "https://tryhackme.com/room/introtonetworking",
+        "link" : "https://tryhackme.com/room/introtonetworking",
         "task_input" : 9,
         "input" :true ,
         "answer" : "3"
@@ -506,7 +506,7 @@
         "link" : "https://tryhackme.com/room/introtonetworking",
         "task_input" : 35,
         "input" : true,
-        "answer" : " Internet"
+        "answer" : "Internet"
 }@#$
 {
         "link" : "https://tryhackme.com/room/introtonetworking",
@@ -571,7 +571,7 @@
 {
         "link" : "https://tryhackme.com/room/introtonetworking",
         "task_input" : 46,
-        "input" : ,
+        "input" : true,
         "answer" : "hosts file"
 }@#$
 {
@@ -589,10 +589,5 @@
 {       "link" : "https://tryhackme.com/room/introtonetworking",
         "task_input" : 49,
         "input" : false,
-        "answer" : ""
-}@#$
-{       "link" : "",
-        "task_input" : ,
-        "input" : true,
         "answer" : ""
 }@#$

@@ -14,14 +14,21 @@ with open("THM_flags.json", 'r') as file:
 
 souman = souman.split("@#$")
 subrata = subrata.split("@#$")
+
+with open("souman_flags.json", 'r') as file:
+    souman_flags = json.load(file)
 souman_flags = {}
+with open("subrata_flags.json", 'r') as file:
+    subrata_flags = json.load(file)
 subrata_flags = {}
 souman_flags_len = len(souman)
 
 
-
 flags_no = len(thm)
-i = 1
+
+
+
+# i = len(subrata_flags)+1
 # for flag in subrata[:-1]:
 #     print("==>",i)
 #     flag = flag.replace(chr(92), r"\\")
@@ -39,19 +46,19 @@ i = 1
 
 
 # the parameter is json file name
-# def marge(file):
-#     global flags_no
-#     with open(file, 'r') as file:
-#         object = json.load(file)
+def marge(file):
+    global flags_no
+    with open(file, 'r') as file:
+        object = json.load(file)
     
-#     flags_no += 1
-#     for i in object:
-#         if object[i] not in thm.values():
-#             thm[flags_no] = object[i]
-#             flags_no+=1
-#     print(f"tatol flags added = {flags_no}")
-#     with open("THM_flags.json", 'w') as file:
-#         json.dump(thm, file, indent=4)
+    flags_no += 1
+    for i in object:
+        if object[i] not in thm.values():
+            thm[flags_no] = object[i]
+            flags_no+=1
+    print(f"tatol flags added = {flags_no}")
+    with open("THM_flags.json", 'w') as file:
+        json.dump(thm, file, indent=4)
 
 # marge("souman_flags.json")
-# marge("subrata_flags.json")
+marge("subrata_flags.json")
