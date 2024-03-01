@@ -19,7 +19,15 @@ if platform.system() == "Windows":
 for usr in users:
     if clock.check_today(users[usr]["date"]):
         continue
-    driver = tryhackme.get_driver(usr)
+    try:
+        driver = tryhackme.get_driver(usr)
+    except:
+        try:
+            driver.quit()
+            driver.close()
+        except:
+            pass
+        driver = tryhackme.get_driver(usr)
 
     if users[usr]["login"] == False:
         tryhackme.login(driver, usr)
