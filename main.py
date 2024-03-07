@@ -18,6 +18,7 @@ if platform.system() == "Windows":
 
 for usr in users:
     if clock.check_today(users[usr]["date"]):
+        print(f"user {usr} is already submitted...")
         continue
     try:
         driver = tryhackme.get_driver(usr)

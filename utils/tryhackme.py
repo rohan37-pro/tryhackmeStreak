@@ -59,7 +59,7 @@ def login(driver, user) :
     driver.find_element('xpath', "//input[@id='email']").send_keys(user)
     while driver.current_url == currentURL:
         time.sleep(0.5)
-    print(f"successfully logged in\n")
+    print(f"successfully logged in.\n")
 
 
 
@@ -99,7 +99,7 @@ def submit_flag(driver, users, usr):
             time.sleep(2)
         except:
             pass
-
+        print(f"logged in as --> {usr}")
         wait_to_load_room(driver)
         join_room(driver)
         close_pop_up(driver)
