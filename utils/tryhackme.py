@@ -174,5 +174,5 @@ def submit_flag(driver, users, usr):
     with open("./configs/userConfig.json", 'w') as file:
         json.dump(users, file, indent=4)
 
-    clock.wait(15)
+    clock.wait(10)
 
