@@ -175,4 +175,7 @@ def submit_flag(driver, users, usr):
         json.dump(users, file, indent=4)
 
     clock.wait(10)
+    driver.quit()
+    time.sleep(2)
+    
 

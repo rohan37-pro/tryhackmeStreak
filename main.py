@@ -25,7 +25,6 @@ for usr in users:
     except:
         try:
             driver.quit()
-            driver.close()
         except:
             pass
         driver = tryhackme.get_driver(usr)
