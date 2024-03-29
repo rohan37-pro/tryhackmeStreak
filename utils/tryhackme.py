@@ -49,6 +49,10 @@ def join_room(driver):
         print("joined the room...")
     except:
         pass
+    try:
+        driver.find_element('xpath', "//button[@class='sc-kAyceB lblCxo']").click()
+    except:
+        pass
     
 
 def login(driver, user) :
@@ -76,8 +80,10 @@ def wait_to_load_room(driver):
 
 def submit_flag(driver, users, usr):
     ## constants ##
-    input = "//input[@class='form-control room-answer-field']"
-    submit = "//div[@class='room-task-input-answer']//button"
+    # input = "//input[@class='form-control room-answer-field']"
+    # submit = "//div[@class='room-task-input-answer']//button"
+    input = "//input[@data-testid='answer-field']"
+    submit = "//form[@class='sc-hbksqY gBsoom']//button[@type='submit']"
     timef = clock.get_date()
     pointer = str(int(users[usr]['pointer']) +1 )
 
@@ -103,6 +109,8 @@ def submit_flag(driver, users, usr):
         wait_to_load_room(driver)
         join_room(driver)
         close_pop_up(driver)
+        # change submit button xpath
+
         while True:
             try:
                 s = f"({submit})[{task_input}]"
@@ -113,7 +121,7 @@ def submit_flag(driver, users, usr):
                     button_e = driver.find_element('xpath', s).text.strip().lower()
                     close_pop_up(driver)
 
-                if button_e in ["submit", "completed"]:
+                if button_e in ["submit", "completed", "Complete"]:
                     correct_answer=False
                 else:
                     print(f"Flag {pointer} is already submitted, trying next.")
@@ -121,18 +129,20 @@ def submit_flag(driver, users, usr):
                 break
             except Exception as e:
                 close_pop_up(driver)
-                print(f"exception occure.")
+                print(f"exception occure.\n",e)
                 time.sleep(1)
     
     print("searching for the card to expand")
-    num_cards = len(driver.find_elements('xpath', "//div[@class='card']"))
+    # num_cards = len(driver.find_elements('xpath', "//div[@class='card']"))
+    num_cards = len(driver.find_elements('xpath', "//div[@class='sc-hmMbRg kgHkTJ']"))
     tasks = 0
     for i in range(1,num_cards+1):
-        tasks += len(driver.find_elements('xpath', f"(//div[@id='task-{i}'])//div[@class='room-task-input']"))
+        # tasks += len(driver.find_elements('xpath', f"(//div[@id='task-{i}'])//div[@class='room-task-input']"))
+        tasks += len(driver.find_elements('xpath', f"(//div[@id='content-{i}'])//form[@class='sc-hbksqY gBsoom']"))
         if tasks >= task_input:
             print(f"found at task-card number {i}")
             card = i
-            elem = driver.find_element('xpath', f"//div[@href='#collapse{i}']")
+            elem = driver.find_element('xpath', f"//div[@id='header-{i}']")
             while elem.get_attribute("aria-expanded") == "false":
                 chain = ActionChains(driver)
                 chain.move_to_element(elem).pause(1).click().perform()
