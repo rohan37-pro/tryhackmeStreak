@@ -260,60 +260,6 @@
         "input": false,
         "answer": ""
     },
-    "45": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 1,
-        "input": false,
-        "answer": ""
-    },
-    "46": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 2,
-        "input": false,
-        "answer": ""
-    },
-    "47": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 3,
-        "input": false,
-        "answer": ""
-    },
-    "48": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 4,
-        "input": false,
-        "answer": ""
-    },
-    "49": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 5,
-        "input": false,
-        "answer": ""
-    },
-    "50": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 6,
-        "input": false,
-        "answer": ""
-    },
-    "51": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 7,
-        "input": false,
-        "answer": ""
-    },
-    "52": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 8,
-        "input": false,
-        "answer": ""
-    },
-    "53": {
-        "link": "https://tryhackme.com/room/careersincyber",
-        "task_input": 9,
-        "input": false,
-        "answer": ""
-    },
     "54": {
         "link": "https://tryhackme.com/room/windowsfundamentals2x0x",
         "task_input": 1,
